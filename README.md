@@ -61,7 +61,6 @@ A fully offline AI assistant for Android powered by local language models.
 - Jetpack Compose
 - AI Writing Assistant
 - Voice support
-- Document support
 - Fully offline
 
 ---
@@ -74,8 +73,6 @@ A Kotlin-first Android AI library published on **Maven Central**.
 
 - ✅ Core
 - ✅ Chat
-- 🚧 RAG
-- 🚧 Vision
 
 ### Highlights
 
@@ -84,18 +81,6 @@ A Kotlin-first Android AI library published on **Maven Central**.
 - Modern Kotlin API
 - Modular architecture
 - Maven Central distribution
-
----
-
-# 📦 Open Source
-
-### Android AiKit
-
-A modern AI toolkit for Android developers.
-
-### Offline AI Assistant
-
-A production-ready example demonstrating on-device AI using Android AiKit.
 
 ---
 
@@ -170,16 +155,16 @@ A production-ready example demonstrating on-device AI using Android AiKit.
 
 ⭐ Android AiKit
 
-⭐ Portfolio
-
 ⭐ Headlines KMP
+
+⭐ Portfolio
 
 ---
 
 # 🌐 Connect With Me
 
 - 🌍 Portfolio: https://hazratbilal.com
-- 💼 LinkedIn: https://www.linkedin.com/in/hazratbilal
+- 💼 LinkedIn: https://www.linkedin.com/in/its-hazratbilal
 - 📧 Email: itshazratbilal@gmail.com
 
 ---
