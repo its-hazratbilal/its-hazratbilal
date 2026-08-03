@@ -1,95 +1,190 @@
 <h1 align="center">Hi 👋, I'm Hazrat Bilal</h1>
 
 <p align="center">
-Senior Android Engineer • Open Source Contributor • AI Enthusiast
+<img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=for-the-badge&logo=android"/>
+<img src="https://img.shields.io/badge/Kotlin-Developer-7F52FF?style=for-the-badge&logo=kotlin"/>
+<img src="https://img.shields.io/badge/Jetpack-Compose-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-On--Device-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Maven%20Central-blue?style=for-the-badge"/>
 </p>
 
 <p align="center">
-Building modern Android applications, AI-powered experiences, and developer libraries using Kotlin, Jetpack Compose, and Clean Architecture.
+  <strong>Senior Android Engineer • Open Source Contributor • AI Engineer</strong>
 </p>
 
 <p align="center">
-<a href="https://hazratbilal.com">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/hazratbilal">LinkedIn</a> •
-<a href="mailto:itshazratbilal@gmail.com">Email</a>
+Building modern Android applications, AI-powered experiences, and developer libraries using Kotlin, Jetpack Compose, Clean Architecture, and on-device LLMs.
+</p>
+
+<p align="center">
+  <a href="https://hazratbilal.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hazratbilal">
+    <img src="https://img.shields.io/badge/LinkedIn-Hazrat_Bilal-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:itshazratbilal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 About Me
 
-- 💼 Senior Android Engineer with **7+ years** of experience
-- 🤖 Building on-device AI applications using **llama.cpp** and **GGUF**
-- 📦 Creator of **Android AiKit**, published on Maven Central
-- 🧠 Creator of **Offline AI Assistant**
-- 🏗 Passionate about Clean Architecture, MVVM, Kotlin, and Jetpack Compose
-- 🌍 Based in Pakistan
-- 📖 Always learning modern Android, AI, and Kotlin Multiplatform
+I'm a **Senior Android Engineer** with **7+ years of experience** building scalable Android applications and modern mobile architectures.
+
+Recently, my primary focus has been **on-device AI**, **LLM inference**, and creating reusable developer tools for the Android ecosystem.
+
+### Current Focus
+
+- 🤖 On-device AI using **llama.cpp**
+- 🧠 Local LLM inference with **GGUF**
+- 📦 Open-source Android libraries
+- 🏗 Clean Architecture & MVVM
+- ⚡ High-performance native integration using **JNI**
+- 🌱 Kotlin Multiplatform (KMP)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🧠 Offline AI Assistant
+## 🧠 Offline AI Assistant
 
-Offline AI assistant powered by local LLMs.
+A fully offline AI assistant for Android powered by local language models.
 
-**Highlights**
+### Features
 
-- GGUF models
-- llama.cpp
+- Local LLM inference
+- GGUF model support
+- llama.cpp integration
 - Jetpack Compose
 - AI Writing Assistant
 - Voice support
-- Offline inference
+- Document support
+- Fully offline
 
 ---
 
-### 📦 Android AiKit
+## 📦 Android AiKit
 
-A Kotlin-first Android AI library published on Maven Central.
+A Kotlin-first Android AI library published on **Maven Central**.
 
-**Modules**
+### Modules
 
-- Core
-- Chat
-- RAG (planned)
-- Vision (planned)
+- ✅ Core
+- ✅ Chat
+- 🚧 RAG
+- 🚧 Vision
 
----
+### Highlights
 
-## 🛠 Tech Stack
-
-### Languages
-
-Kotlin • Java • Dart • JavaScript • TypeScript • PHP
-
-### Android
-
-Jetpack Compose • XML • MVVM • Clean Architecture • Coroutines • Flow • Hilt • Room • SQLDelight • DataStore • WorkManager
-
-### Backend
-
-Node.js • NestJS • Express • CodeIgniter • REST APIs
-
-### AI
-
-llama.cpp • GGUF • JNI • Local LLMs
-
-### Tools
-
-Git • GitHub • Firebase • Google Play Console • Android Studio
+- Native llama.cpp bridge
+- Streaming API
+- Modern Kotlin API
+- Modular architecture
+- Maven Central distribution
 
 ---
 
-## 📈 GitHub Statistics
+# 📦 Open Source
 
-(Stats go here)
+### Android AiKit
+
+A modern AI toolkit for Android developers.
+
+### Offline AI Assistant
+
+A production-ready example demonstrating on-device AI using Android AiKit.
 
 ---
 
-## 🌐 Connect With Me
+# 🛠 Tech Stack
 
-- 🌍 https://hazratbilal.com
-- 💼 https://linkedin.com/in/hazratbilal
-- 📧 itshazratbilal@gmail.com
+## Languages
+
+- Kotlin
+- Java
+- C++
+
+## Android
+
+- Jetpack Compose
+- XML
+- MVVM
+- Clean Architecture
+- Coroutines
+- Flow
+- Hilt
+- Room
+- SQLDelight
+- DataStore
+- WorkManager
+- Navigation Component
+- Material Design 3
+
+## AI
+
+- llama.cpp
+- GGUF
+- JNI
+- Local LLMs
+- On-device AI
+
+## Tools
+
+- Android Studio
+- Git
+- GitHub
+- Firebase
+- Google Play Console
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=its-hazratbilal&show_icons=true&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=its-hazratbilal&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-hazratbilal&layout=compact&hide_border=true"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=its-hazratbilal&theme=flat&no-frame=true&margin-w=10"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=its-hazratbilal&style=flat-square" />
+</p>
+
+---
+
+# 📌 Pinned Repositories
+
+⭐ Offline AI Assistant
+
+⭐ Android AiKit
+
+⭐ Portfolio
+
+⭐ Headlines KMP
+
+---
+
+# 🌐 Connect With Me
+
+- 🌍 Portfolio: https://hazratbilal.com
+- 💼 LinkedIn: https://www.linkedin.com/in/hazratbilal
+- 📧 Email: itshazratbilal@gmail.com
+
+---
+
+<p align="center">
+Thanks for visiting! ⭐ If you like my work, consider starring one of my repositories.
+</p>
+```
