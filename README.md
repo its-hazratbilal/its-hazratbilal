@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack-Compose-4285F4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/llama.cpp-On--Device_AI-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -16,11 +17,11 @@ Building modern Android applications, AI-powered experiences, and developer libr
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/its-hazratbilal">
+    <img src="https://img.shields.io/badge/LinkedIn-its--hazratbilal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://hazratbilal.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hazratbilal">
-    <img src="https://img.shields.io/badge/LinkedIn-Hazrat_Bilal-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:itshazratbilal@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
@@ -145,18 +146,6 @@ A Kotlin-first Android AI library published on **Maven Central**.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=its-hazratbilal&style=flat-square" />
 </p>
-
----
-
-# 📌 Pinned Repositories
-
-⭐ Offline AI Assistant
-
-⭐ Android AiKit
-
-⭐ Headlines KMP
-
-⭐ Portfolio
 
 ---
 
