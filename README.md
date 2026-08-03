@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack-Compose-4285F4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/llama.cpp-On--Device_AI-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Maven-Central-blue?style=for-the-badge"/>
 </p>
 
 <p align="center">
