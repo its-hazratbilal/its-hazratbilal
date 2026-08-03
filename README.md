@@ -160,4 +160,3 @@ A Kotlin-first Android AI library published on **Maven Central**.
 <p align="center">
 Thanks for visiting! ⭐ If you like my work, consider starring one of my repositories.
 </p>
-```
