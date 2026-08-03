@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hazrat Bilal</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=for-the-badge&logo=android"/>
-  <img src="https://img.shields.io/badge/Kotlin-Developer-7F52FF?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/Android-Engineer-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack-Compose-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-On--Device-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Maven%20Central-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/llama.cpp-On--Device_AI-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Maven-Central-blue?style=for-the-badge"/>
 </p>
 
 <p align="center">
