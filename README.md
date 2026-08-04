@@ -145,10 +145,6 @@ A modular, Kotlin-first Android library for on-device LLM inference, published o
   <img src="https://komarev.com/ghpvc/?username=its-hazratbilal&style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-hazratbilal&style=flat-square" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
