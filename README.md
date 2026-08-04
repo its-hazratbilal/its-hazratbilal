@@ -138,18 +138,11 @@ A modular, Kotlin-first Android library for on-device LLM inference, published o
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=its-hazratbilal&show_icons=true&hide_border=true"/>
   <img height="170" src="https://streak-stats.demolab.com?user=its-hazratbilal&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-hazratbilal&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=its-hazratbilal&theme=flat&no-frame=true&margin-w=10"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=its-hazratbilal&style=flat-square" />
 </p>
 
 <p align="center">
