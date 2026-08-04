@@ -126,7 +126,6 @@ A modular, Kotlin-first Android library for on-device LLM inference, published o
 - GGUF
 
 ### Tools
-
 - Android Studio
 - Git
 - CI/CD with GitHub Actions
