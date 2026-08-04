@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Jetpack-Compose-4285F4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/llama.cpp-On--Device_AI-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/maven-central/v/io.github.its-hazratbilal/android-ai-kit-core?style=for-the-badge&label=Maven%20Central"/>
 </p>
 
 <p align="center">
@@ -13,7 +14,7 @@
 </p>
 
 <p align="center">
-Building modern Android applications, AI-powered experiences, and developer libraries using Kotlin, Jetpack Compose, Clean Architecture, and on-device LLMs.
+Building modern Android applications, AI-powered experiences, and developer libraries using Kotlin, Jetpack Compose, MVVM, Clean Architecture, and on-device LLMs.
 </p>
 
 <p align="center">
@@ -30,103 +31,111 @@ Building modern Android applications, AI-powered experiences, and developer libr
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
 I'm a **Senior Android Engineer** with **7+ years of experience** building scalable Android applications and modern mobile architectures.
 
 Recently, my primary focus has been **on-device AI**, **LLM inference**, and creating reusable developer tools for the Android ecosystem.
 
-### Current Focus
+#### Current Focus
 
 - 🤖 On-device AI using **llama.cpp**
 - 🧠 Local LLM inference with **GGUF**
 - 📦 Open-source Android libraries
-- 🏗 Clean Architecture & MVVM
+- 🏗 Kotlin, Jetpack Compose, and Clean Architecture
 - ⚡ High-performance native integration using **JNI**
 - 🌱 Kotlin Multiplatform (KMP)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧠 Offline AI Assistant
+### 🧠 Offline AI Assistant
 
-A fully offline AI assistant for Android powered by local language models.
+A privacy-first Android AI assistant that runs entirely offline using local language models.
 
-### Features
+#### Features
 
-- Local LLM inference
-- GGUF model support
-- llama.cpp integration
-- Jetpack Compose
-- AI Writing Assistant
-- Voice support
-- Fully offline
-
----
-
-## 📦 Android AiKit
-
-A Kotlin-first Android AI library published on **Maven Central**.
-
-### Modules
-
-- ✅ Core
-- ✅ Chat
-
-### Highlights
-
-- Native llama.cpp bridge
-- Streaming API
-- Modern Kotlin API
-- Modular architecture
-- Maven Central distribution
+- 🤖 Fully offline on-device LLM inference
+- 📁 GGUF model download and management
+- ⚡ Powered by **llama.cpp**
+- 💬 AI chat and writing assistance
+- 📄 Text summarization and translation
+- 🎙️ Voice input and text-to-speech
+- 📱 Built with Jetpack Compose
+- 🏗️ MVVM and Clean Architecture
 
 ---
 
-# 🛠 Tech Stack
+### 📦 Android AiKit
 
-## Languages
+A modular, Kotlin-first Android library for on-device LLM inference, published on **Maven Central**.
+
+#### Modules
+
+- ✅ Core — model loading, lifecycle, JNI bridge to llama.cpp
+- ✅ Chat — streaming chat/completion API
+- 🔜 RAG — retrieval-augmented generation (planned)
+- 🔜 Vision — multimodal support (planned)
+
+#### Highlights
+
+- Published on Maven Central with GPG-signed, namespace-verified releases
+- Streaming, coroutine-based chat API with real-time token callbacks
+- Deliberate API design — restricted constructors, extension-function entry points
+- Modular architecture — add only the capability module you need
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
 
 - Kotlin
 - Java
-- C++
+- Dart
 
-## Android
+### Android
 
 - Jetpack Compose
 - XML
+- Material Design
 - MVVM
 - Clean Architecture
 - Coroutines
 - Flow
 - Hilt
+- Koin
 - Room
 - SQLDelight
 - DataStore
-- WorkManager
 - Navigation Component
-- Material Design 3
+- REST APIs
+- Unit Test
 
-## AI
+### Cross-Platform
+- Kotlin Multiplatform (KMP)
+- Compose Multiplatform (CMP)
+- Flutter
 
+### AI
+
+- On-device LLM Integration
 - llama.cpp
-- GGUF
 - JNI
-- Local LLMs
-- On-device AI
+- GGUF
 
-## Tools
+### Tools
 
 - Android Studio
 - Git
-- GitHub
+- CI/CD with GitHub Actions
 - Firebase
 - Google Play Console
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=its-hazratbilal&show_icons=true&hide_border=true"/>
@@ -149,7 +158,7 @@ A Kotlin-first Android AI library published on **Maven Central**.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 - 🌍 Portfolio: https://hazratbilal.com
 - 💼 LinkedIn: https://www.linkedin.com/in/its-hazratbilal
