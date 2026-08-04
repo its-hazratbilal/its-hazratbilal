@@ -39,9 +39,9 @@ Recently, my primary focus has been **on-device AI**, **LLM inference**, and cre
 
 #### Current Focus
 
-🤖 On-device AI using **llama.cpp**
-🧠 Local LLM inference with **GGUF**
-📦 Open-source Android libraries
+🤖 On-device AI using **llama.cpp**  
+🧠 Local LLM inference with **GGUF**  
+📦 Open-source Android libraries  
 - 🏗 Kotlin, Jetpack Compose, and Clean Architecture
 - ⚡ High-performance native integration using **JNI**
 - 🌱 Kotlin Multiplatform (KMP)
